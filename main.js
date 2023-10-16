@@ -2,7 +2,7 @@ var http = require('http')
 var request = require('request');
 
 // 这里填你的replit应用的url，多个url用逗号隔开
-let replit_app_urls = ["https://xxx.repl.co", "https://xxx.repl.co", "https://xxx.repl.co"]
+let replit_app_urls = ["https://UptimeKK.shaaunhighmore.repl.co", "https://notseeme.shaaunhighmore.repl.co", "https://jiejiejie.mmoorty.repl.co","https://jiejiejie.mmoorty.repl.co/7a7e10c0-c86b-4453-b753-02a52f583640.html","https://vast-adhesive-cornucopia.glitch.me"]
 
 var port = 4000
 var server = http.createServer(function (request, response) {
